@@ -2,7 +2,7 @@
 
 $ Destroy 
 
-perl destroy.pl 76.223.105.230 80 65500 50000000000
+perl destroy.pl 1.1.1.1 80 65500 50000000000
 
 Usage: destroy {ip} {port} {time}
 

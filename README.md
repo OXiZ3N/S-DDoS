@@ -10,7 +10,7 @@ Example: destroy 1.1.1.1 80 60
 
 $ UDP
 
-python2 udp.py {ip} {port} 0 0
+python2 udp.py 1.1.1.1 80
 
 Usage: udp {ip} {port} 
 
